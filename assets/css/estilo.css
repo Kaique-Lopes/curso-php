@@ -78,6 +78,8 @@ body {
 
 .modulo {
     flex-basis: 32%;
+    margin-bottom: 20px;
+    border-radius: 10px;
 }
 
 .modulo > h3 {
@@ -113,3 +115,30 @@ body {
 .modulo > ul > li:hover {
     background-color: #EEE;
 }
+
+.modulo.verde { border: 2px solid greenyellow; }
+.modulo.verde > h3 { background-color: greenyellow; }
+
+.modulo.red { border: 2px solid red; }
+.modulo.red > h3 { background-color:red; }
+
+.modulo.amarelo { border: 2px solid yellow; }
+.modulo.amarelo > h3 { background-color: yellow; }
+
+.modulo.blue { border: 2px solid rgb(24, 172, 172); }
+.modulo.blue > h3 { background-color: rgb(24, 172, 172); }
+
+.modulo.laranja { border: 2px solid orange; }
+.modulo.laranja > h3 { background-color: orange; }
+
+.modulo.rosa { border: 2px solid pink; }
+.modulo.rosa > h3 { background-color: pink; }
+
+.modulo.roxo { border: 2px solid purple; }
+.modulo.roxo > h3 { background-color: purple; }
+
+.modulo.aqua { border: 2px solid aqua; }
+.modulo.aqua > h3 { background-color: aqua; }
+
+.modulo.marrom { border: 2px solid brown; }
+.modulo.marrom > h3 { background-color:brown; }
