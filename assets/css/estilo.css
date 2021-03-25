@@ -44,7 +44,7 @@ body {
     grid-area: principal;
     height: calc(100vh - 180px); 
     background-color: rgb(203, 202, 202);
-    padding: 22px;
+    padding: 20px;
 }
 
 .conteudo {
